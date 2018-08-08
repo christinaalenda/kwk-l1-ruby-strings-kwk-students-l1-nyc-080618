@@ -17,8 +17,7 @@ puts "Dear #{guest_name},
 
 BOO! IT'S ALMOST HALLOWEEN!
 You are invited to The Halloween #{party_name} on the #{date} from 6pm until 
-#{time} ! I hope you can make it, 
-#{guest_name}!
+#{time} ! I hope you can make it, #{guest_name}!
 
 Sincerely, 
 
